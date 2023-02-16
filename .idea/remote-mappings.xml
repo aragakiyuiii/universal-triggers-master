@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://chunhui@129.64.55.195:22/home/chunhui/anaconda3/envs/0/bin/python3.9">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/chunhui/research/universal-triggers" />
+            </list>
+          </settings>
+        </remote-mappings>
+      </list>
+    </list>
+  </component>
+</project>
